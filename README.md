@@ -61,5 +61,3 @@ Contributions to improve the examples, add new functions or methods, or fix typo
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-kumar-sharma-a22a94171)
-
-[![Gmail](https://shields.io)](mailto:abhaymactavish@gmail.com)
